@@ -1,2 +1,14 @@
 # igamenews-pages
-HTML page archive and documentation
+
+资料页面发布仓库
+
+这里用于集中归档一批静态 HTML 页面文件。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
